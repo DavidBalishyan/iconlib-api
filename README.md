@@ -10,4 +10,4 @@ Response: icons/NeoVim-Dark.svg
 2nd example: request to /icon/appwrite
 <br>
 Response: icons/appwrite.svg
-[](https://iconlib.onrender.com)
+[https://iconlib.onrender.com](https://iconlib.onrender.com)
